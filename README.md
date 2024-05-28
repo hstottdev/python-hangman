@@ -2,7 +2,7 @@
 A version of hangman that runs in python in which the user can select from Countries, the first Harry Potter book,The Avengers script and so on as wordsets.
 
 # INSTALL INSTRUCTIONS
-The program will work if all txt files are installed and placed within the same folder as the .py file.
+The program will work if all .txt files are installed and placed within the same folder as the .py file.
 All python dependencies must also be installed for the program to run.
 
 # Play Instuctions
