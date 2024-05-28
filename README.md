@@ -5,7 +5,7 @@ A version of hangman that runs in python in which the user can select from Count
 The program will work if all txt files are installed and placed within the same folder as the .py file.
 All python dependencies must also be installed for the program to run.
 
-# PLAY INSTRUCTIONS
+# Play Instuctions
 - When presented with number options the user must respond in an integer format.
 
 - The user then may guess letters for the Hangman using keys on the keyboard
