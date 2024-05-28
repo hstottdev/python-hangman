@@ -1,5 +1,5 @@
 # Python Hangman
-A version of hangman that runs in python in which the user can select from Countries, the first Harry Potter book,The Avengers script and so on as wordsets.
+A version of 'Hangman' that runs in Python in which the user can select from Countries, the first Harry Potter book,The Avengers script and so on as wordsets.
 
 # INSTALL INSTRUCTIONS
 The program will work if all .txt files are installed and placed within the same folder as the .py file.
